@@ -19,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Daryn/Projects/Python/MethodPro/kaggle_benzogang_back" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,6 +46,7 @@
       <workItem from="1570547755730" duration="3950000" />
       <workItem from="1570639840499" duration="1278000" />
       <workItem from="1570655361371" duration="12000" />
+      <workItem from="1570797154009" duration="197000" />
     </task>
     <servers />
   </component>
